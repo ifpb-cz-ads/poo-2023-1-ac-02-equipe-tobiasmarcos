@@ -10,26 +10,3 @@ Atividade 1, Resposta 5: O compilador detectou a falta do método main e não ex
 Atividade 1, Resposta 7: O programa não foi compilado, o editor mostrou o erro : "class, interface, enum, or record expected"
 <br>
 Atividade 1, Resposta 8: O seguinte erro apareceu na janela de comando: "Error: Could not find or load main class"
-
-
-Batista & Moraes, página 42, Resposta 1:
-
-a) (F)
-
-b) (V) 
-
-c) (F)
-
-d) (V)
-
-e) (F) 
-
-f) (V)
-
-g) (F)
-
-h) (V)
-
-i) (V)
-
-j) (F)
